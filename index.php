@@ -1,5 +1,5 @@
 <?php
-$API_URL = "https://github.com/king678797897/LOL/edit/main/index.php";
+$API_URL = "https://lol-eosin-three.vercel.app";
 $API_KEY = "demo";
 
 $file = "api_usage.json";
